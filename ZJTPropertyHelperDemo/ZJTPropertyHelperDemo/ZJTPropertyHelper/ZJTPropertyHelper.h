@@ -1,9 +1,9 @@
 //
 //  ZJTPropertyHelper.h
-//  zCounter
+//  ZJTPropertyHelperDemo
 //
-//  Created by Patrick Zhu on 13-7-5.
-//  Copyright (c) 2013年 ZJTSoft. All rights reserved.
+//  Created by coin on 11/30/15.
+//  Copyright © 2015 ZJTSoft. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

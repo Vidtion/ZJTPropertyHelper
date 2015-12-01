@@ -10,7 +10,18 @@
 
 @implementation PropertyManager
 
+/**
+ *  @author PatrickCoin, 15-12-01 10:12:12
+ *
+ *  implementation of Logined
+ */
 BOOL_PROP_IMPL(Logined)
+
+/**
+ *  @author PatrickCoin, 15-12-01 10:12:12
+ *
+ *  implementation of Text
+ */
 STRING_PROP_IMPL(Text)
 
 +(instancetype)sharedIncetance
